@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @STEVEN-MUG
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning python
+- 🌱 I’m software developer
 - 💞️ I’m looking to collaborate on systems develoopment
 - 📫 How to reach me (kasagaali96@gmail.com)
 
